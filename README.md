@@ -11,7 +11,9 @@ Currently diving deeper into applied Machine Learning with R.
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -33,18 +35,10 @@ Currently diving deeper into applied Machine Learning with R.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenG1009&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenG1009&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-HERE) ← *update this link*
-- 📧 youremail@email.com ← *update this email*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruben-garcia-revett-b72312223/) 
+- 📧 rubenwork1009@gmail.com
 - 🟢 **Open to new opportunities**
 
 ---
