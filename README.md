@@ -26,7 +26,7 @@ Built the initial Flask HTTP API for the platform's Python backend and shipped c
 
 | Project | What it shows |
 | --- | --- |
-| [Lumina Vault RAG](https://github.com/rubenG1009/Lumina-Vault-RAG) | Offline-first document retrieval demo with pgvector, hybrid search, verified citations, MCP tools and reproducible evaluations. |
+| [Lumina Vault RAG](https://github.com/rubenG1009/Lumina-Vault-RAG) | Local-first retrieval demo with FastAPI, PostgreSQL/pgvector, Redis, optional BGE embeddings, exact-quote citations, MCP tools and [small labelled evaluations](https://github.com/rubenG1009/Lumina-Vault-RAG#evaluation). |
 | [MedAPI](https://github.com/rubenG1009/medapi) | Patient management REST API with JWT authentication, role-based access control, PostgreSQL, Docker and pytest. |
 | [Steam Recommendation API](https://github.com/rubenG1009/steam-recommendation-api) | FastAPI service and ETL pipeline processing 100K+ Steam records for recommendations. |
 | [JobScout](https://github.com/rubenG1009/jobscout) | Remote job matcher that uses the Claude API to rank listings against a candidate profile. |
